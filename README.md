@@ -1,8 +1,3 @@
-mynodejsapp
-===========
-
-Node js test app
-
 #My Node.js test app
 
 ## What is it?
